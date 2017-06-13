@@ -5,6 +5,7 @@ define(
 
         console.log('hello world4');   
         console.log('hello world5');   
+        this is a bug
         console.log('hello world6');   
         console.log('hello world7');   
     }
