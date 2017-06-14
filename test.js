@@ -7,6 +7,6 @@ define(
         console.log('hello world5');   
         console.log('bug blow22');   
         console.log('hello world6');   
-        console.log('hello world7');   
+        console.log('hello world77777');   
     }
 );
