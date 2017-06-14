@@ -14,5 +14,6 @@ define(
         console.log('hello world7');   
 
         console.log('new feature1');
+        console.log('new feature3');
     }
 );
