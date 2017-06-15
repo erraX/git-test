@@ -13,7 +13,7 @@ define(
         };
 
         Person.prototype.sayName = function () {
-            console.log('Hello:', this.name);
+            console.log('Hello name :', this.name);
 
             return this.name;
         };
