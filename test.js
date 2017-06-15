@@ -6,6 +6,8 @@ define(
 
         Person.prototype.sayName = function () {
             console.log('Hello:', this.name);
+
+            return this.name;
         };
     }
 );
