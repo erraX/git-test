@@ -14,7 +14,7 @@ define(
         };
 
         Person.prototype.sayName = function () {
-            console.log('Hello:', this.name);
+            console.log('My name is', this.name);
 
             return this.name;
         };
