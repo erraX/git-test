@@ -3,6 +3,8 @@ define(
         function Person(name, age, address) {
             this.name = name;
             this.age = age;
+
+            // This is a address
             this.address = address;
         }
 
