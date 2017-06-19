@@ -1,8 +1,9 @@
 define(
     function (require, exports, module) {
-        function Person(name, age) {
+        function Person(name, age, address) {
             this.name = name;
             this.age = age;
+            this.address = address;
         }
 
         Person.prototype.setName = function (name) {
